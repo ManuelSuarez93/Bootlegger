@@ -8,5 +8,5 @@ Authors: Ivan Peyrot, Manuel Suarez, Martin Palermo, Pio Riela.
 
 ![Alt text](IW0uAg.png?raw=true "Title")
 
-<iframe src="https://drive.google.com/file/d/15m1RjGZbQiYFiQZVmPjycZZ2rmb_5YCO/view?usp=sharing" ></iframe>
+<iframe src="https://drive.google.com/file/d/15m1RjGZbQiYFiQZVmPjycZZ2rmb_5YCO/preview" width="640" height="480" allow="autoplay"></iframe>
 
