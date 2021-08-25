@@ -1,0 +1,37 @@
+[Encoding]
+InputEncoding=UTF8
+
+[WFCLIENT]
+ClientName=F5-38aa2409
+RemoveICAFile=Yes
+TransportReconnectEnabled=On
+Version=2
+
+[ApplicationServers]
+Internet Explorer 2=
+
+[Internet Explorer 2]
+Address=;a08bb1bfe7ca28340626d433120962668bc9485175f11966880e2f64
+AutologonAllowed=ON
+BrowserProtocol=HTTPonTCP
+CGPSecurityTicket=On
+ClearPassword=8565C27FB7048D
+ClientAudio=On
+DesiredColor=8
+DesiredHRES=4294967295
+DesiredVRES=4294967295
+Domain=\882EF3CFC6B496ED
+DoNotUseDefaultCSL=On
+HttpBrowserAddress=!
+InitialProgram=#Internet Explorer 2
+LocHttpBrowserAddress=!
+LogonTicket=8565C27FB7048D882EF3CFC6B496ED
+LogonTicketType=CTXS1
+SessionsharingKey=PStYsQLBmEPMyMsBbj/SMODjbfyDHnxT
+SSLEnable=On
+SSLProxyHost=access.gslb.trafigura.com:443
+Title=Internet Explorer 11
+TransportDriver=TCP/IP
+TWIMode=On
+WinStationDriver=ICA 3.0
+

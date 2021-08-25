@@ -1,0 +1,17 @@
+
+*.meta
+*.anim
+*.png
+*.asd
+*.mp3
+*.unity
+*.prefab
+*.asset
+*.controller
+*.psd
+*.zip
+*.ttf
+*.txt
+*.mat
+*.physicsMaterial2D
+*.aiff
